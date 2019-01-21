@@ -29,11 +29,11 @@ date_format = "January 2006"
   description = """
   I serve as a data scientist embedded on the Innovation team, incubating new technologies across Indigo's horizontal business, ranging from finding better strategies for growing crops to monitoring grain in the supply chain after harvest. Working closely with data science, engineering, and product teams, I
 
-  * develop recommendations to agronomists and farmers (e.g., how much fertilizer to apply and when) using statistical machine learning, field experiments, and agronomic knowledge:
-  * plan experiments in tens of thousands of acres each year;
-  * visualize data for agronomists and growers using Python's ecosystem (plot.ly, pandas, geopandas);
-  * calibrate grain quality sensors and statistically assess their performance;
-  * strategize how to make agriculture more data-driven, scientific, profitable, and sustainable.
+  * develop recommendations to agronomists and farmers (e.g., how much fertilizer to apply and when) using statistical machine learning, field experiments, and agronomic knowledge
+  * plan experiments in tens of thousands of acres each year
+  * visualize data for agronomists and growers using Python's ecosystem (plot.ly, pandas, geopandas)
+  * calibrate grain quality sensors and statistically assess their performance
+  * strategize how to make agriculture more data-driven, scientific, profitable, and sustainable
   """
 
 
@@ -50,7 +50,6 @@ date_format = "January 2006"
   * developed new learning-based models for recommendation and multi-label classification with tens of thousands of labels;
   * deployed models to production;
   * improved Catalant's understanding of text using natural language processing.
-
   """
 
 [[experience]]
@@ -61,11 +60,11 @@ date_format = "January 2006"
   date_start = "2016-09-01"
   date_end = "2017-08-31"
   description = """
-  As a postdoc in the [Bonds lab](http://bondslab.com/) at Harvard Medical School, I worked on
+  As a postdoc in the [Bonds lab](http://bondslab.com/) at Harvard Medical School, I
 
-  * Time-series prediction using machine learning (with researchers at the Kennedy School of Government)
-  * Constructed a new theory of economic development (with researchers at Bocconi University and IMT Lucca)
-  * Buit chat bots and analyzed text data for a randomized controlled trial (with researchers at Bocconi University)
+  * predicted time-series using machine learning (with researchers at the Kennedy School of Government)
+  * constructed a new theory of economic development (with researchers at Bocconi University and IMT Lucca)
+  * built chat bots and analyzed text data for a randomized controlled [trial](https://pedl.cepr.org/node/4904) (with researchers at Bocconi University)
   """
 
 [[experience]]
@@ -78,8 +77,8 @@ date_format = "January 2006"
   description = """
   As a participant in the Newton Institute's program on systemic risk, I
 
-  * Wrote a [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.062813) with [Teruyoshi Kobayashi](http://www.econ.kobe-u.ac.jp/en/people/course/theory/kobayashi.html)  
-  * Gave talks at Oxford, ETH, and UCL
+  * wrote a [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.062813) with [Teruyoshi Kobayashi](http://www.econ.kobe-u.ac.jp/en/people/course/theory/kobayashi.html)
+  * gave talks at Oxford, ETH, and UCL
   """
 
 [[experience]]
@@ -90,12 +89,22 @@ date_format = "January 2006"
   date_start = "2014-09-01"
   date_end = "2016-08-31"
   description = """
-  <br>
+  As a [James S. McDonnell Postdoctoral Fellow in Studying Complex Systems](https://www.jsmf.org/apply/fellowship/letters-of-intent.htm), I
 
-  * Studied models of financial crises and contagion
-  * Led an international team to study contagious disruptions in economies and how these can lead to a poverty trap
-  * Wrote a chat bot and deployed team-chat software (Rocket.Chat) for a randomized controlled trial on on social networks enhance entrepreneurship
-  * Funded by a James S. McDonnell Postdoctoral Fellowship in Studying Complex Systems
+  * studied models of financial crises and contagion
+  * led an international team to study contagious disruptions in economies and how these can lead to a poverty trap
+  * wrote a chat bot and deployed team-chat software ([Rocket.Chat](https://rocket.chat/)) for a randomized controlled [trial](https://pedl.cepr.org/node/4904) on on social networks enhance entrepreneurship
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Microsoft Research"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2013-06-01"
+  date_end = "2013-08-31"
+  description = """
+  I condensed nuanced empirical research on the 2007–2008 financial crisis into a model of asset price collapse, [published](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104219) later that year with [Duncan Watts](https://www.microsoft.com/en-us/research/people/duncan/) (Microsoft Research) and [Rajiv Sethi](http://www.columbia.edu/~rs328/) (Columbia University).
   """
 
 +++
