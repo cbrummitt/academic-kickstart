@@ -91,4 +91,4 @@ interests = [
 
 +++
 
-Charlie Brummitt is an Innovation Scientist at [Indigo Agriculture](https://www.indigoag.com/), where he develops algorithms, data visualizations, and other data-driven products to help farming be more profitable and environmentally sustainable. He has wide-ranging interests in using mathematics and computing to model and predict complex systems, most recently in economic development.
+Charlie Brummitt is an Innovation Scientist at [Indigo Agriculture](https://www.indigoag.com/), where he develops algorithms, data visualizations, and other data-driven products to make farming more profitable and environmentally sustainable. He has wide-ranging interests in using mathematics and computing to model and predict complex systems, most recently in economic development.
