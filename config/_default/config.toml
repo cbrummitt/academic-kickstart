@@ -13,10 +13,10 @@ baseurl = "https://cbrummitt.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Charlie Brummitt 2018"
+copyright = "&copy; Charlie Brummitt 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-132874048-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
