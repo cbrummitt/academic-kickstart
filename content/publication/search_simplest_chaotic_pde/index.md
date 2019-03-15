@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "A numerical search for the simplest chaotic partial differential equation (PDE) suggests that the Kuramoto–Sivashinsky equation is the simplest chaotic PDE with a quadratic or cubic nonlinearity and periodic boundary conditions. We define the simplicity of an equation, enumerate all autonomous equations with a single quadratic or cubic nonlinearity that are simpler than the Kuramoto–Sivashinsky equation, and then test those equations for chaos, but none appear to be chaotic. However, the search finds several chaotic, ill-posed PDEs; the simplest of these, in the discrete approximation of finitely many, coupled ordinary differential equations (ODEs), is a strikingly simple, chaotic, circulant ODE system."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "http://www.sciencedirect.com/science/article/pii/S0375960109006409"}]
+links = [{name = "Journal Version", url = "http://www.sciencedirect.com/science/article/pii/S0375960109006409"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.physleta.2009.05.050"

@@ -23,7 +23,7 @@ publication_short = "Phys. Rev. Lett."
 
 # Abstract and optional shortened version.
 abstract = "Controlling self-organizing systems is challenging because the system responds to the controller. Here, we develop a model that captures the essential self-organizing mechanisms of Bak-Tang-Wiesenfeld (BTW) sandpiles on networks, a self-organized critical (SOC) system. This model enables studying a simple control scheme that determines the frequency of cascades and that shapes systemic risk. We show that optimal strategies exist for generic cost functions and that controlling a subcritical system may drive it to criticality. This approach could enable controlling other self-organizing systems."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.078701"}]
+links = [{name = "Journal Version", url = "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.078701"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1103/PhysRevLett.111.078701"

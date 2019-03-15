@@ -23,7 +23,7 @@ publication_short = "PNAS"
 
 # Abstract and optional shortened version.
 abstract = "When a tenth of humanity lost power over 2 days in India in July 2012, technical failure was not the only culprit. Like many recent blackouts, this outage resulted from couplings among systems, including extreme weather exacerbated by climate change, human operator errors, suboptimal policies, and market forces. Predictions that climate change intensifies droughts and tropical cyclones presage more weather-induced blackouts. Even without weather disasters, small disturbances can trigger cascading failures, and so can ill-designed electricity markets (1) and dependence on cyber infrastructure."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "https://www.pnas.org/content/110/30/12159"}]
+links = [{name = "Journal Version", url = "https://www.pnas.org/content/110/30/12159"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1073/pnas.1309151110"

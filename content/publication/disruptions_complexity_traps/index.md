@@ -23,7 +23,7 @@ publication_short = "Nat. Hum. Behav."
 
 # Abstract and optional shortened version.
 abstract = "Poor economies not only produce less; they typically produce things that involve fewer inputs and fewer intermediate steps. Yet the supply chains of poor countries face more frequent disruptions—delivery failures, faulty parts, delays, power outages, theft and government failures—that systematically thwart the production process. To understand how these disruptions affect economic development, we modelled an evolving input–output network in which disruptions spread contagiously among optimizing agents. The key finding was that a poverty trap can emerge: agents adapt to frequent disruptions by producing simpler, less valuable goods, yet disruptions persist. Growing out of poverty requires that agents invest in buffers to disruptions. These buffers rise and then fall as the economy produces more complex goods, a prediction consistent with global patterns of input inventories. Large jumps in economic complexity can backfire. This result suggests why ‘big push’ policies can fail and it underscores the importance of reliability and gradual increases in technological complexity."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "https://www.nature.com/articles/s41562-017-0190-6"}]
+links = [{name = "Journal Version", url = "https://www.nature.com/articles/s41562-017-0190-6"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41562-017-0190-6"

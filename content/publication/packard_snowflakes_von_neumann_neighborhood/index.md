@@ -25,7 +25,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "In 1984, Packard [1] introduced simple planar cellular automata to emulate the growth of snow crystals. These Packard Snowflakes have since been popularized by S. Wolfram and others, most recently in [2]. The present paper provides a rigorous analysis of the simplest examples: those with nearest neighbor interaction on the two-dimensional integers. In each case we determine the asymptotic density with which the spreading crystal fills the plane. For the basic _Exactly 1_ rule started from a singleton, we establish alternate representations of the final state as a uniform tag system and as a substitution system."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Journal Version", url = ""}]
+# links = [{name = "Journal Version", url = ""}]
 
 # Digital Object Identifier (DOI)
 doi = ""

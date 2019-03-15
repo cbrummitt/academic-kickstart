@@ -23,7 +23,7 @@ publication_short = "J. Royal Soc. Interface"
 
 # Abstract and optional shortened version.
 abstract = "An important challenge in several disciplines is to understand how sudden changes can propagate among coupled systems. Examples include the synchronization of business cycles, population collapse in patchy ecosystems, markets shifting to a new technology platform, collapses in prices and in confidence in financial markets, and protests erupting in multiple countries. A number of mathematical models of these phenomena have multiple equilibria separated by saddle-node bifurcations. We study this behaviour in its normal form as fast–slow ordinary differential equations. In our model, a system consists of multiple subsystems, such as countries in the global economy or patches of an ecosystem. Each subsystem is described by a scalar quantity, such as economic output or population, that undergoes sudden changes via saddle-node bifurcations. The subsystems are coupled via their scalar quantity (e.g. trade couples economic output; diffusion couples populations); that coupling moves the locations of their bifurcations. The model demonstrates two ways in which sudden changes can propagate: they can cascade (one causing the next), or they can hop over subsystems. The latter is absent from classic models of cascades. For an application, we study the Arab Spring protests. After connecting the model to sociological theories that have bistability, we use socioeconomic data to estimate relative proximities to tipping points and Facebook data to estimate couplings among countries. We find that although protests tend to spread locally, they also seem to ‘hop' over countries, like in the stylized model; this result highlights a new class of temporal motifs in longitudinal network datasets."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0712"}]
+links = [{name = "Journal Version", url = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0712"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1098/rsif.2015.0712"

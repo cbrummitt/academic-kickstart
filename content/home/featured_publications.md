@@ -1,18 +1,16 @@
 +++
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
-widget = "pages"
+# Featured Publications widget.
+# This widget displays publications from `content/publication/` which have
+# `featured = true` in their `+++` front matter.
+widget = "featured"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Featured Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
-
-# Number of publications to list.
-count = 10
+weight = 10
 
 # List format.
 #   0 = Simple
@@ -20,7 +18,7 @@ count = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 1
 
 # Filter by publication type.
 # -1: Any
@@ -33,18 +31,12 @@ list_format = 4
 #  6: Book chapter
 publication_type = "-1"
 
-# Exclude publications that are shown in the Featured Publications widget?
-exclude_featured = false
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 10
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+  count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -54,28 +46,27 @@ exclude_featured = false
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
-
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+  
   # Background color.
   # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  # gradient_end = "navy"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -83,16 +74,5 @@ exclude_featured = false
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
-
-<!-- {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}} -->
 

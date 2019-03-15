@@ -24,7 +24,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The boundaries of one-dimensional, two-color cellular automata depending on four cells and begun from simple initial conditions are systematically studied. The exact growth rates of the boundaries that appear to be reducible are determined. The reducible boundaries are characterized by morphic words. For boundaries that appear to be irreducible, curve-fitting techniques are applied to compute an empirical growth exponent and (in the case of linear growth) a growth rate. The random walk statistics of irreducible boundaries exhibit surprising regularities and suggest that a threshold separates two classes. Finally, a cellular automaton is constructed whose growth exponent does not exist, showing that a strict classification by exponent is not possible."
-abstract_short = ""
+summary = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Version", url = "https://www.complex-systems.com/abstracts/v21_i02_a01/"}]
+links = [{name = "Journal Version", url = "https://www.complex-systems.com/abstracts/v21_i02_a01/"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.25088/ComplexSystems.21.2.85"
