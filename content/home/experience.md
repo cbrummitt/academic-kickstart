@@ -20,14 +20,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Sr. Innovation Scientist"
+  title = "Sr. Innovation Scientist II"
   company = "Indigo Agriculture"
   company_url = "https://www.indigoag.com/"
   location = "Boston, MA"
   date_start = "2018-04-09"
   date_end = ""
   description = """
-  I serve as a data scientist embedded on the Innovation team, incubating new technologies across Indigo's horizontal business, ranging from finding better strategies for growing crops to monitoring grain in the supply chain after harvest. Working closely with data science, engineering, and product teams, I
+  I serve as a data scientist embedded on the Systems Innovation team, incubating new technologies across Indigo's horizontal business, ranging from finding better strategies for growing crops to monitoring grain in the supply chain after harvest. Working closely with data science, engineering, and product teams, I
 
   * develop recommendations to agronomists and farmers (e.g., how much fertilizer to apply and when) using statistical machine learning, field experiments, and agronomic knowledge
   * plan experiments in tens of thousands of acres each year
