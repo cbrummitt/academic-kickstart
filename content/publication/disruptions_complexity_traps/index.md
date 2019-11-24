@@ -38,7 +38,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Economic Development"]
 
 # Links (optional).
 url_pdf = ""

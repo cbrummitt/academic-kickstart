@@ -1,6 +1,6 @@
 +++
 title = "Machine-learned patterns suggest that diversification drives economic development"
-date = 2018-12-09T00:00:00
+date = 2019-11-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Charles D. Brummitt", "Andrés Gómez-Liévano", "Ricardo Hausmann",
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Journal of the Royal Society Interface"
+publication_short = "J. R. Soc. Interface"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "We combine a sequence of machine-learning techniques, together called Principal Smooth-Dynamics Analysis (PriSDA), to identify patterns in the dynamics of complex systems. Here, we deploy this method on the task of automating the development of new theory of economic growth. Traditionally, economic growth is modeled with a few aggregate quantities derived from simplified theoretical models. PriSDA, by contrast, identifies important quantities. Applied to 55 years of data on countries’ exports, PriSDA finds that what most distinguishes countries’ export baskets is their diversity, with extra weight assigned to more sophisticated products. The weights are consistent with previous measures of product complexity. The second dimension of variation is proficiency in machinery relative to agriculture. PriSDA then infers the dynamics of these two quantities and of per-capita income. The inferred model predicts that diversification drives growth in income, that diversified middle-income countries will grow the fastest, and that countries will converge onto intermediate levels of income and specialization. PriSDA is generalizable and may illuminate dynamics of elusive quantities such as diversity and complexity in other natural and social systems."
 summary = ""
 
 # Is this a featured publication? (true/false)
@@ -38,7 +38,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Economic Development", "Machine Learning"]
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1812.03534.pdf"
