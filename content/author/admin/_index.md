@@ -25,7 +25,8 @@ interests = [
   "Bayesian Statistics",
   "Causal Inference",
   "Complex Systems",
-  "Network Science"
+  "Network Science",
+  "Experimental Design"
 ]
 
 # List qualifications (such as academic degrees)
@@ -91,4 +92,4 @@ interests = [
 
 +++
 
-Charlie Brummitt is an Innovation Scientist at [Indigo Agriculture](https://www.indigoag.com/), where he develops algorithms, data visualizations, and other data-driven products to make farming more profitable and environmentally sustainable. He has wide-ranging interests in using mathematics and computing to model and predict complex systems, most recently in economic development.
+Charlie Brummitt is a Senior Innovation Scientist at [Indigo Agriculture](https://www.indigoag.com/), where he is currently leading the statistical design and implementation of a carbon credit market for agriculture. Charlie is a generalist with an insatiable interest in learning new areas and finding connections between them. An applied mathematician by training, his academic research has involved modeling and predicting events in a range of complex systems, from blackouts in power grids to crises in financial systems to the development of economies. His work in industry has involved developing recommender systems, visualizing data, designing experiments, building statistical sampling designs, and providing technical leadership in large, cross-functional projects. As these ideas percolate in his brain outside work, he ferments kombuchas and krauts and sourdough bread.

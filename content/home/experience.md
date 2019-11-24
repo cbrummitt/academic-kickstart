@@ -27,8 +27,8 @@ date_format = "January 2006"
   date_start = "2018-04-09"
   date_end = ""
   description = """
-  I serve as a data scientist embedded on the Systems Innovation team, incubating new technologies across Indigo's horizontal business, ranging from finding better strategies for growing crops to monitoring grain in the supply chain after harvest. Working closely with data science, engineering, and product teams, I
-
+  I serve as a scientist embedded on the Systems Innovation team, where I help incubate new technologies across Indigo's horizontal business. These projects range from finding better strategies for growing crops to monitoring grain in the supply chain after harvest to creating a carbon credit market for agriculture. Working closely with data science, engineering, and product teams, I
+ 
   * develop recommendations to agronomists and farmers (e.g., how much fertilizer to apply and when) using statistical machine learning, field experiments, and agronomic knowledge
   * plan experiments in tens of thousands of acres each year
   * visualize data for agronomists and growers using Python's ecosystem (plot.ly, pandas, geopandas)
