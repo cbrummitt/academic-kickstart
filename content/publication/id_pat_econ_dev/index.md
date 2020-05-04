@@ -1,6 +1,6 @@
 +++
 title = "Machine-learned patterns suggest that diversification drives economic development"
-date = 2019-11-24T00:00:00
+date = 2020-01-08T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -41,7 +41,7 @@ featured = true
 tags = ["Economic Development", "Machine Learning"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1812.03534.pdf"
+url_pdf = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0283"
 url_preprint = "https://arxiv.org/abs/1812.03534"
 url_code = "https://github.com/cbrummitt/machine_learned_patterns_in_economic_development"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B0ASZU"
@@ -56,7 +56,7 @@ url_source = ""
 # links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1098/rsif.2019.0283"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
