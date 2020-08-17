@@ -6,7 +6,7 @@ name = "Charlie Brummitt"
 superuser = true
 
 # Role/position
-role = "Sr. Innovation Scientist"
+role = "Lead Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -92,4 +92,4 @@ interests = [
 
 +++
 
-Charlie Brummitt is a Lead Data Scientist at [Indigo Agriculture](https://www.indigoag.com/), where he is playing a leading role in the statistical design and implementation of a carbon credit market for agriculture. Charlie is a generalist interested in learning new areas and in finding connections between them. An applied mathematician by training, his academic research has involved modeling and predicting events in a range of complex systems, from blackouts in power grids to crises in financial systems to the development of economies. His work in industry has involved developing recommender systems, visualizing data, designing experiments, building statistical sampling designs, and providing technical leadership in large, cross-functional projects. As these ideas percolate in his brain outside work, he ferments kombuchas, krauts, and sourdough bread.
+Charlie Brummitt is a data scientist at [Indigo Agriculture](https://www.indigoag.com/), where he is playing a leading role in the statistical design and implementation of a carbon credit market for agriculture. Charlie is a generalist interested in learning new areas and in finding connections between them. An applied mathematician by training, his academic research has involved modeling and predicting events in a range of complex systems, from blackouts in power grids to crises in financial systems to the development of economies. His work in industry has involved developing recommender systems, visualizing data, designing experiments, building statistical sampling designs, and providing technical leadership in large, cross-functional projects. As these ideas percolate in his brain outside work, he ferments kombuchas, krauts, and sourdough bread.
